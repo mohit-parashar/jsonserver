@@ -5,19 +5,10 @@
         "radio_name": "Bolly Hungama",
         "radio_url": "http://listen.shoutcast.com/bollyhungama",
         "radio_icon": "http://35.200.244.164/sites/default/files/2018-06/radio_icon.png",
-
         "radio_category": "Trance",
         "radio_channel": "English",
-        "radio_category_id": "370",
-        "radio_channel_id": "353",
-        "category": {
-          "radio_category_name": "Trance",
-          "radio_category_id": 370
-        },
-        "channel": {
-          "radio_channel_name": "English",
-          "radio_channel_id": 353
-        }
+        "radio_category_id": 370,
+        "radio_channel_id": 353
       },
       {
         "radio_name": "Radio City International",
@@ -25,16 +16,8 @@
         "radio_icon": "http://35.200.244.164/sites/default/files/2018-06/radio_icon.png",
         "radio_category": "Dance",
         "radio_channel": "English",
-        "radio_category_id": "368",
-        "radio_channel_id": "353",
-        "category": {
-          "radio_category_name": "Dance",
-          "radio_category_id": 368
-        },
-        "channel": {
-          "radio_channel_name": "English",
-          "radio_channel_id": 353
-        }
+        "radio_category_id": 368,
+        "radio_channel_id": 353
       },
       {
         "radio_name": "SunriseFM",
@@ -42,16 +25,8 @@
         "radio_icon": "http://35.200.244.164/sites/default/files/2018-06/radio_icon.png",
         "radio_category": "Bollywood",
         "radio_channel": "Hindi",
-        "radio_category_id": "358",
-        "radio_channel_id": "352",
-        "category": {
-          "radio_category_name": "Bollywood",
-          "radio_category_id": 358
-        },
-        "channel": {
-          "radio_channel_name": "Hindi",
-          "radio_channel_id": 352
-        }
+        "radio_category_id": 358,
+        "radio_channel_id": 352
       },
       {
         "radio_name": "Radio HSL - India&#039;s No.1 - Top 40 Superhits Station",
@@ -59,16 +34,9 @@
         "radio_icon": "http://35.200.244.164/sites/default/files/2018-06/radio_icon.png",
         "radio_category": "Bollywood",
         "radio_channel": "Hindi",
-        "radio_category_id": "358",
-        "radio_channel_id": "352",
-        "category": {
-          "radio_category_name": "Bollywood",
-          "radio_category_id": 358
-        },
-        "channel": {
-          "radio_channel_name": "Hindi",
-          "radio_channel_id": 352
-        }
+        "radio_category_id": 358,
+        "radio_channel_id": 352
+
       }
     ],
     "radio_channels": [
