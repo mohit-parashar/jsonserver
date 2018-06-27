@@ -1,1 +1,105 @@
-{"data":{"FmRadio":[{"radio_name":"Bolly Hungama","radio_url":"http:\/\/listen.shoutcast.com\/bollyhungama","radio_icon":"http:\/\/localhost\/appbackend\/sites\/default\/files\/2018-06\/radio_icon.png","radio_category":"Trance","radio_channel":"English","radio_category_id":"370","radio_channel_id":"353","category":{"radio_category_name":"Trance","radio_category_id":370},"channel":{"radio_channel_name":"English","radio_channel_id":353}},{"radio_name":"Radio City International","radio_url":"http:\/\/94.228.133.3:8381\/stream","radio_icon":"http:\/\/localhost\/appbackend\/sites\/default\/files\/2018-06\/radio_icon_1.png","radio_category":"Dance","radio_channel":"English","radio_category_id":"368","radio_channel_id":"353","category":{"radio_category_name":"Dance","radio_category_id":368},"channel":{"radio_channel_name":"English","radio_channel_id":353}},{"radio_name":"SunriseFM","radio_url":"http:\/\/185.66.249.48:9600\/stream","radio_icon":"http:\/\/localhost\/appbackend\/sites\/default\/files\/2018-06\/radio_icon_0.png","radio_category":"Bollywood","radio_channel":"Hindi","radio_category_id":"358","radio_channel_id":"352","category":{"radio_category_name":"Bollywood","radio_category_id":358},"channel":{"radio_channel_name":"Hindi","radio_channel_id":352}},{"radio_name":"Radio HSL - India&#039;s No.1 - Top 40 Superhits Station","radio_url":"http:\/\/50.7.68.251:7064\/stream","radio_icon":"http:\/\/localhost\/appbackend\/sites\/default\/files\/2018-06\/radio_icon.png","radio_category":"Bollywood","radio_channel":"Hindi","radio_category_id":"358","radio_channel_id":"352","category":{"radio_category_name":"Bollywood","radio_category_id":358},"channel":{"radio_channel_name":"Hindi","radio_channel_id":352}}],"radio_channels":[{"radio_channel_name":"English","radio_channel_id":353},{"radio_channel_name":"Hindi","radio_channel_id":352}],"radio_category":[{"radio_category_name":"Trance","radio_category_id":370,"radio_channel_id":353},{"radio_category_name":"Dance","radio_category_id":368,"radio_channel_id":353},{"radio_category_name":"Bollywood","radio_category_id":358,"radio_channel_id":352}]},"code":200,"message":"Success","time":1530084576}
+{
+  "data": {
+    "FmRadio": [
+      {
+        "radio_name": "Bolly Hungama",
+        "radio_url": "http://listen.shoutcast.com/bollyhungama",
+        "radio_icon": "http://35.200.244.164/sites/default/files/2018-06/radio_icon.png",
+
+        "radio_category": "Trance",
+        "radio_channel": "English",
+        "radio_category_id": "370",
+        "radio_channel_id": "353",
+        "category": {
+          "radio_category_name": "Trance",
+          "radio_category_id": 370
+        },
+        "channel": {
+          "radio_channel_name": "English",
+          "radio_channel_id": 353
+        }
+      },
+      {
+        "radio_name": "Radio City International",
+        "radio_url": "http://94.228.133.3:8381/stream",
+        "radio_icon": "http://35.200.244.164/sites/default/files/2018-06/radio_icon.png",
+        "radio_category": "Dance",
+        "radio_channel": "English",
+        "radio_category_id": "368",
+        "radio_channel_id": "353",
+        "category": {
+          "radio_category_name": "Dance",
+          "radio_category_id": 368
+        },
+        "channel": {
+          "radio_channel_name": "English",
+          "radio_channel_id": 353
+        }
+      },
+      {
+        "radio_name": "SunriseFM",
+        "radio_url": "http://185.66.249.48:9600/stream",
+        "radio_icon": "http://35.200.244.164/sites/default/files/2018-06/radio_icon.png",
+        "radio_category": "Bollywood",
+        "radio_channel": "Hindi",
+        "radio_category_id": "358",
+        "radio_channel_id": "352",
+        "category": {
+          "radio_category_name": "Bollywood",
+          "radio_category_id": 358
+        },
+        "channel": {
+          "radio_channel_name": "Hindi",
+          "radio_channel_id": 352
+        }
+      },
+      {
+        "radio_name": "Radio HSL - India&#039;s No.1 - Top 40 Superhits Station",
+        "radio_url": "http://50.7.68.251:7064/stream",
+        "radio_icon": "http://35.200.244.164/sites/default/files/2018-06/radio_icon.png",
+        "radio_category": "Bollywood",
+        "radio_channel": "Hindi",
+        "radio_category_id": "358",
+        "radio_channel_id": "352",
+        "category": {
+          "radio_category_name": "Bollywood",
+          "radio_category_id": 358
+        },
+        "channel": {
+          "radio_channel_name": "Hindi",
+          "radio_channel_id": 352
+        }
+      }
+    ],
+    "radio_channels": [
+      {
+        "radio_channel_name": "English",
+        "radio_channel_id": 353
+      },
+      {
+        "radio_channel_name": "Hindi",
+        "radio_channel_id": 352
+      }
+    ],
+    "radio_category": [
+      {
+        "radio_category_name": "Trance",
+        "radio_category_id": 370,
+        "radio_channel_id": 353
+      },
+      {
+        "radio_category_name": "Dance",
+        "radio_category_id": 368,
+        "radio_channel_id": 353
+      },
+      {
+        "radio_category_name": "Bollywood",
+        "radio_category_id": 358,
+        "radio_channel_id": 352
+      }
+    ]
+  },
+  "code": 200,
+  "message": "Success",
+  "time": 1530084576
+}
